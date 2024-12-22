@@ -24,7 +24,6 @@ This project uses the **RecipeNLG dataset**, which contains over **2 million rec
 Follow these steps to get the project up and running:
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/your-username/recipe-recommender.git
 cd recipe-recommender
 ### 2.Install Dependencies
