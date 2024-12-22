@@ -24,7 +24,7 @@ This project uses the **RecipeNLG dataset**, which contains over **2 million rec
 Follow these steps to get the project up and running:
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/recipe-recommender.git
+git clone https://github.com/MdMaruf-22/recipe-recommender.git
 cd recipe-recommender
 ### 2.Install Dependencies
 Ensure you have Python 3.8+ installed. Install the required Python libraries:
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### 3. Clone the Repository
  Download the Dataset
  Download the RecipeNLG dataset, and place the file subset_dataset.csv in the root directory of the project.
- Link: 
+ Link: https://www.kaggle.com/datasets/paultimothymooney/recipenlg
 ### 4.Run the application
 Launch the Streamlit app:
 streamlit run app.py
